@@ -4,7 +4,7 @@
 
 **原作者Git：** https://gitee.com/coll45/foc    
 
-**B站教程：** 
+**B站教程：** https://www.bilibili.com/video/BV1Mr4y1v78u
 ![11](3.Docs/image.jpg)
 ## 0. 关于本项目
 
